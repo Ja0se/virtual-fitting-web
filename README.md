@@ -71,7 +71,7 @@ main : app.js
 
 [u2net cloth-segmentation](https://github.com/levindabhi/cloth-segmentation.git) 
 
-We change infer.py
+We changed infer.py
 
 ---
 
